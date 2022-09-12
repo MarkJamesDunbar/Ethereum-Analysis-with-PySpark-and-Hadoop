@@ -1,4 +1,4 @@
-# Spark-Hadoop-Ethereum-Analysis
+# Ethereum-Analysis-with-PySpark-and-Hadoop
 Project seeking to analyse all ethereum data from the first few transactions to the present. Below is a brief discussion of the results produced, the full report can be found inside this repository.
 
 ## Introduction
